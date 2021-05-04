@@ -1,3 +1,2 @@
-# estcmp060-
-Esse repositório será utilizado para o envio de tarefas da
-disciplina de Laboratório de programação de computadores.
+# Laboratório de programaçãp de computadores
+Esse repositório será utilizado para o envio de tarefas dessa disciplina.
