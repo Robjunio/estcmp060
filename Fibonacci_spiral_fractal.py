@@ -60,7 +60,7 @@ def fibonacci_plot(x):
         tamanho_b = temp + tamanho_b
 
 
-Fator = int(input("Insira a escala do grafico (Deve ser >= 1):"))
+factor = int(input("Insira a escala do grafico (Deve ser >= 1):"))
 
 n = int(input("Insira o numero de interações (Deve ser maior que 1): "))
 
